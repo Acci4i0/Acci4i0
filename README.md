@@ -1,5 +1,4 @@
-## Andrea Lando - a.k.a. Acci4i0 
-<h1> 🤘 About Me:</h1>
+## 🤘 Andrea Lando - a.k.a. Acci4i0 
 - 🎓 Management Engineer — yes, yes i know!
 - 🐇 Recently fell down the web-dev rabbit hole and decided not to climb back out
 - 💻 I build with: vanilla HTML, CSS & JavaScript; slowly graduating to Next.js (React), Prisma, PostgreSQL and Python
