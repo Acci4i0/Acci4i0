@@ -7,5 +7,4 @@
 - When I'm not breaking my own code I play tennis, football, and read under the sun
 
 ### Elsewhere
-
 [lando.andrea04@gmail.com](mailto:lando.andrea04@gmail.com) · [instagram](https://instagram.com/andrelndo)
